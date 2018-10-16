@@ -1,0 +1,25 @@
+{
+  "name": "modules-to-extract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/modules-to-extract.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hfu/modules-to-extract/issues"
+  },
+  "homepage": "https://github.com/hfu/modules-to-extract#readme",
+  "dependencies": {
+    "@mapbox/tilebelt": "^1.0.1",
+    "config": "^2.0.1",
+    "hjson": "^3.1.1"
+  }
+}
